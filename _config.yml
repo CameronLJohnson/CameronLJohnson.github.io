@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Cameron L Johnson
+tagline:          'Freelance Editing'
+description:      'I am an experienced bilingual editor trained in the humanities and social sciences.'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Andres Celis'
+  url:            https://twitter.com/
+
+gems:             [jekyll-paginate]
+paginate:         5
+paginate_path:    "page:num"
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
